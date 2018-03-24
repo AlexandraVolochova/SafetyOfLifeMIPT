@@ -1,4 +1,4 @@
-Ссылка на гугл-папку с презентациями: https://drive.google.com/open?id=1CxkpIMzH3zHuAvcFZDEh9XekT0hkR8e2
+Ссылка на гугл-папку с презентациями: https://drive.google.com/drive/folders/1CxkpIMzH3zHuAvcFZDEh9XekT0hkR8e2?usp=sharing
 
 # SafetyOfLifeMIPT
 Конспект лекций по БЖД, МФТИ, ФОПФ, 8 семестр, 2018
