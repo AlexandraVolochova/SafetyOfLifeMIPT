@@ -1,3 +1,5 @@
+Ссылка на гугл-папку с презентациями: https://drive.google.com/open?id=1CxkpIMzH3zHuAvcFZDEh9XekT0hkR8e2
+
 # SafetyOfLifeMIPT
 Конспект лекций по БЖД, МФТИ, ФОПФ, 8 семестр, 2018
 
